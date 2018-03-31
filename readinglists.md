@@ -80,7 +80,7 @@ Martel, Caroline. _The Phantom of the Operator_. Color/BW, 2004.
 
 Menkman, Rosa. _The Collapse of PAL_, 2010. [https://vimeo.com/12199201](https://vimeo.com/12199201).
 
-#Software Studies
+# Software Studies
 
 Burnham, Jack. _Software - Information Technology: Its New Meaning for Art_. Jewish Museum, 1970.
 
