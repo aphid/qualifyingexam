@@ -1,8 +1,8 @@
 
 
-#Media Theory
+# Media Theory
 
-##Texts
+## Texts
 
 Acland, Charles R., ed. _Residual Media_. Minneapolis: University of Minnesota Press, 2007.
 
@@ -60,7 +60,7 @@ Virilio, Paul. &quot;The Museum of Accidents.&quot; _Public_, no. 2 (1989).
 
 Vismann, Cornelia. _Files: Law and Media Technology_. Translated by Geoffrey Winthrop-Young. Meridian. Stanford, Calif: Stanford University Press, 2008.
 
-##Media
+## Media
 
 Abu Hamdan, Lawrence. &quot;Politics of Listening.&quot; presented at the The Politics of Listening, New York, NY, April 24, 2015. [https://vimeo.com/129018344](https://vimeo.com/129018344).
 
@@ -146,9 +146,9 @@ Wardrip-Fruin, Noah. _Expressive Processing: Digital Fictions, Computer Games, a
 
 Wardrip-Fruin, Noah, and Nick Montfort. &quot;From Software - Information Technology: Its New Meaning for Art.&quot; In _The New Media Reader_, n.d.
 
-#Panoptic Art/Technology/Resistance
+# Panoptic Art/Technology/Resistance
 
-##Art/Media
+## Art/Media
 
 Abu Hamdan, Lawrence. _Earshot / Rubber Coated Steel_. 2016. Video (and installation). [http://lawrenceabuhamdan.com/#/new-page-1/](http://lawrenceabuhamdan.com/#/new-page-1/).
 
@@ -244,7 +244,7 @@ Wagenknecht, Addie. _Kilohydra: A Love Letter to Chelsea [Manning]_. 2014. Custo
 
 Wiebel, Peter. _Observation of the Observation: Uncertainty_. 1973. Installation, Video. [http://www.medienkunstnetz.de/works/beobachtung/](http://www.medienkunstnetz.de/works/beobachtung/).
 
-##Exhibition Catalogs and Companions
+## Exhibition Catalogs and Companions
 
 Beil, Ralf, and Antje Ehmann, eds. _Serious Games: War-Media-Art_. Bilingual edition. Ostfildern: Hatje Cantz, 2011.
 
@@ -270,7 +270,7 @@ Wallis, Brian, Andrew Hultkrans, Avital Ronell, Bill Horrigan, Andrew Ross, Giov
 
 Weibel, Peter, and Timothy Druckrey, eds. _Net\_condition: Art and Global Media_. Graz, Austria : Karlsruhe, Germany : Cambridge, Mass: The MIT Press, 2001.
 
-##Texts
+## Texts
 
 Brian Holmes. &quot;Visiting the Planetarium.&quot; _Continental Drift_ (blog), September 8, 2011. [https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/](https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/).
 
