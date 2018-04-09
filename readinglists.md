@@ -288,6 +288,8 @@ Critical Art Ensemble. _Digital Resistance: Explorations in Tactical Media_. 200
 
 Deleuze, Gilles. &quot;Postscript on the Societies of Control.&quot; _October_ 59 (1992): 3–7.
 
+Grinberg, Daniel, and Lisa Han. “Introduction: Surveying the Field.” Media Fields, no. 12 (March 25, 2016).
+
 Modes, Wes. &quot;Revisiting the Technical Achievements of Listening Post Ten Years On.&quot; _NMEDIAC_ 9, no. 1 (Winter 2013): 17.
 
 Parks, Lisa, and Kaplan Caren, eds. _Life in the Age of Drone Warfare_, 2017.
