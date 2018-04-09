@@ -2,13 +2,13 @@
 
 # Media Theory
 
-## Texts
+**Texts**
 
 Acland, Charles R., ed. _Residual Media_. Minneapolis: University of Minnesota Press, 2007.
 
-Baudrillard, Jean. &quot;Requiem for the Media.&quot; In _The New Media Reader_, edited by Noah Wardrup-Fruin and Nick Montfort. MIT Press. Accessed October 5, 2017.
+Baudrillard, Jean. &quot;Requiem for the Media.&quot; In _The New Media Reader_, edited by Noah Wardrup-Fruin and Nick Montfort. MIT Press, 1972.
 
-Benjamin, Walter. &quot;The Work of Art in the Age of Its Technological Reproducibility [First Version].&quot; Translated by Michael W. Jennings. _Grey Room_, 2010, 11–37.
+Benjamin, Walter. &quot;The Work of Art in the Age of Its Technological Reproducibility [First Version].&quot; Translated by Michael W. Jennings. _Grey Room_, 1936, 11–37.
 
 Berland, Jody. &quot;Space at the Margins: Colonial Spatiality and Critical Theory after Innis.&quot; _Topia: Canadian Journal of Cultural Studies_ 1, no. 1 (May 22, 2006).
 
@@ -18,7 +18,7 @@ Enzensberger, Hans. &quot;Constituents of a Theory of the Media.&quot; _New Left
 
 Flusser, Vilém. _Into the Universe of Technical Images_. Electronic Mediations, v. 32. Minneapolis: University of Minnesota Press, 2011.
 
-Fuller, Matthew, and Roger F. Malina. _Media Ecologies: Materialist Energies in Art and Technoculture_. Leonardo. Cambridge, Mass: MIT Press, 2005.
+Fuller, Matthew. _Media Ecologies: Materialist Energies in Art and Technoculture_. Leonardo. Cambridge, Mass: MIT Press, 2005.
 
 Gitelman, Lisa. _Paper Knowledge: Toward a Media History of Documents_. Sign, Storage, Transmission. Durham ; London: Duke University Press, 2014.
 
@@ -30,7 +30,7 @@ Holl, Ute. _Cinema, Trance and Cybernetics_. Amsterdam University Press, 2017. [
 
 Hu, Tung-Hui. _A Prehistory of the Cloud_. Cambridge, Massachusetts: The MIT Press, 2015.
 
-Innis, Harold Adams, Dave Godfrey, and Harold Adams Innis. _Empire &amp; Communications_. Illustrated ed. Victoria [B.C.]: Press Porcépic, 1986.
+Innis, Harold Adams. _Empire &amp; Communications_. Illustrated ed. Victoria [B.C.]: Press Porcépic, 1950.
 
 Kittler, Friedrich A. _Gramophone, Film, Typewriter_. Translated by Geoffrey Winthrop-Young. Writing Science. Stanford, Calif: Stanford University Press, 1999.
 
@@ -42,7 +42,7 @@ Marvin, Carolyn. _When Old Technologies Were New: Thinking about Electric Commun
 
 Mattern, Shannon. _Code and Clay, Data and Dirt: Five Thousand Years of Urban Media_. Minneapolis: Univ Of Minnesota Press, 2017.
 
-McLuhan, Marshall, W. Terrence Gordon, Elena Lamberti, and Dominique Scheffel-Dunand. _The Gutenberg Galaxy: The Making of Typographic Man_. 1st ed. Toronto ; Buffalo: University of Toronto Press, 2011.
+McLuhan, Marshall. _The Gutenberg Galaxy: The Making of Typographic Man_. 1st ed. Toronto ; Buffalo: University of Toronto Press, 1962.
 
 Mumford, Lewis. &quot;Authoritarian and Democratic Technics.&quot; _Technology and Culture_ 5, no. 1 (1964): 1–8. [https://doi.org/10.2307/3101118](https://doi.org/10.2307/3101118).
 
@@ -50,23 +50,29 @@ Parikka, Jussi. &quot;Dust and Exhaustion: The Labor of Media Materialism.&quot;
 
 Parks, Lisa, and Nicole Starosielski, eds. _Signal Traffic: Critical Studies of Media Infrastructures_. The Geopolitics of Information. Urbana: University of Illinois Press, 2015.
 
-Peters, John Durham. _Speaking into the Air: A History of the Idea of Communication_. Paperback ed., [Nachdr.]. Chicago, Ill.: Univ. of Chicago Press, 20.
+Peters, John Durham. _Speaking into the Air: A History of the Idea of Communication_. Paperback ed., [Nachdr.]. Chicago, Ill.: Univ. of Chicago Press, 1999.
 
-Siegert, Bernhard, and Geoffrey Winthrop-Young. _Cultural Techniques: Grids, Filters, Doors, and Other Articulations of the Real_. Fordham University Press, 2015. [https://doi.org/10.5422/fordham/9780823263752.001.0001](https://doi.org/10.5422/fordham/9780823263752.001.0001).
+Siegert, Bernhard. _Cultural Techniques: Grids, Filters, Doors, and Other Articulations of the Real_. Translated by Geoffrey Winthrop-Young. Fordham University Press, 2015. [https://doi.org/10.5422/fordham/9780823263752.001.0001](https://doi.org/10.5422/fordham/9780823263752.001.0001).
 
 Sterne, Jonathan. _MP3: The Meaning of a Format_. Sign, Storage, Transmission. Duke University Press, 2012.
+
+Vaneigem, Raoul. &quot;Technology and Its Mediated Use (Ch. 9).&quot; In _The Revolution of Everyday Life_, 1st ed., 216. Practical Paradise Publications, 1967.
 
 Virilio, Paul. &quot;The Museum of Accidents.&quot; _Public_, no. 2 (1989).
 
 Vismann, Cornelia. _Files: Law and Media Technology_. Translated by Geoffrey Winthrop-Young. Meridian. Stanford, Calif: Stanford University Press, 2008.
 
-## Media
+Winner, Langdon. &quot;Do Artifacts Have Politics?&quot; _Daedalus_ 109, no. 1 (1980): 121–36.
 
-Abu Hamdan, Lawrence. &quot;Politics of Listening.&quot; presented at the The Politics of Listening, New York, NY, April 24, 2015. [https://vimeo.com/129018344](https://vimeo.com/129018344).
+**Media**
+
+Abu Hamdan, Lawrence. &quot;Contra Diction: Speech against Itself.&quot; presented at the Technosphere x Knowledge, Haus der Kulturen der Welt, Berlin, April 14, 2016. [https://www.hkw.de/en/app/mediathek/video/50393](https://www.hkw.de/en/app/mediathek/video/50393).
 
 Ahwesh, Peggy. _73 Suspect Words_. Video, 2010. [https://vimeo.com/9183642](https://vimeo.com/9183642).
 
-Ballard, J. G. _The Atrocity Exhibition_. Expanded and annotated ed. London: Fourth Estate, 2006.
+Baldwin, Craig. _Spectres of the Spectrum_. Sci-Fi, 1999.
+
+Ballard, J. G. _The Atrocity Exhibition_. Expanded and annotated ed. London: Fourth Estate, 1970.
 
 Case, George. _Silence Descends: The End of the Information Age, 2000-2500_. Vancouver, B.C: Arsenal Pulp Press, 1997.
 
@@ -93,6 +99,8 @@ Cox, Geoff, and Alex McLean. _Speaking Code: Coding as Aesthetic and Political E
 Crawford, Kate. &quot;Can an Algorithm Be Agonistic? Ten Scenes from Life in Calculated Publics.&quot; _Science, Technology, &amp; Human Values_ 41, no. 1 (January 1, 2016): 77–92. [https://doi.org/10.1177/0162243915589635](https://doi.org/10.1177/0162243915589635).
 
 Frabetti, Federica. _Software Theory: A Cultural and Philosophical Study_. Media Philosophy. London ; New York: Rowman &amp; Littlefield International, 2015.
+
+&quot;Full Text PDF.&quot; Accessed April 8, 2018. [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN\_ID3067711\_code829721.pdf?abstractid=3067711&amp;mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3067711_code829721.pdf?abstractid=3067711&amp;mirid=1).
 
 Fuller, Matthew. _Behind the Blip: Essays on the Culture of Software_. Brooklyn, NY: Autonomedia, 2003.
 
@@ -124,9 +132,9 @@ Montfort, Nick, ed. _10 PRINT CHR$(205.5+RND(1));:GOTO 10_. Software Studies. Ca
 
 Parikka, Jussi. _Digital Contagions: A Media Archaeology of Computer Viruses_. Peter Lang, 2007.
 
-Parisi, Luciana. &quot;Reprogramming Decisionism - Journal #85 October 2017 - e-Flux.&quot; Accessed October 7, 2017. [http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/](http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/).
+Parisi, Luciana. &quot;Reprogramming Decisionism.&quot; _E-Flux_, no. 85 (October 2017). [http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/](http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/).
 
-Pasquale, Frank. &quot;Machine Learning, Meaning, &amp; Law.&quot; presented at the Cybernetics Conference, Prime Produce 424 W 54th st NYC, November 18, 2017. [https://livestream.com/accounts/9197973/events/7940973/videos/166217748](https://livestream.com/accounts/9197973/events/7940973/videos/166217748).
+Pasquale, Frank A. &quot;Professional Judgment in an Era of Artificial Intelligence and Machine Learning.&quot; SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, November 8, 2017. [https://papers.ssrn.com/abstract=3067711](https://papers.ssrn.com/abstract=3067711).
 
 Raley, Rita. &quot;Code.Surface || Code.Depth.&quot; Dichtung-Digital 36, 2006. [http://www.dichtung-digital.org/2006/01/Raley/index.htm](http://www.dichtung-digital.org/2006/01/Raley/index.htm).
 
@@ -136,7 +144,7 @@ Rouvroy, Antoinette. _Governmentality in an Age of Autonomic Computing: Technolo
 
 Sack, Warren. &quot;Out of Bounds: Language Limits, Language Planning, and the Definition of Distance in the New Spaces of Linguistic Capitalism : Computational Culture.&quot; Accessed March 20, 2018. [http://computationalculture.net/out-of-bounds-language-limits-language-planning-and-the-definition-of-distance-in-the-new-spaces-of-linguistic-capitalism/](http://computationalculture.net/out-of-bounds-language-limits-language-planning-and-the-definition-of-distance-in-the-new-spaces-of-linguistic-capitalism/).
 
-———. _The Software Arts_. Manuscript. Software Studies, n.d.   [http://softwarearts.info](http://softwarearts.info)
+———. _The Software Arts_. Manuscript. Software Studies, n.d.
 
 Shanken, Edward A. &quot;In Forming Software: Systems, Structuralism, Demythification.&quot; _Revista ICONO14. Revista Científica de Comunicación y Tecnologías Emergentes_ 12, no. 2 (May 19, 2014): 9. [https://doi.org/10.7195/ri14.v12i2.726](https://doi.org/10.7195/ri14.v12i2.726).
 
@@ -148,7 +156,7 @@ Wardrip-Fruin, Noah, and Nick Montfort. &quot;From Software - Information Techno
 
 # Panoptic Art/Technology/Resistance
 
-## Art/Media
+**Art/Media**
 
 Abu Hamdan, Lawrence. _Earshot / Rubber Coated Steel_. 2016. Video (and installation). [http://lawrenceabuhamdan.com/#/new-page-1/](http://lawrenceabuhamdan.com/#/new-page-1/).
 
@@ -244,7 +252,7 @@ Wagenknecht, Addie. _Kilohydra: A Love Letter to Chelsea [Manning]_. 2014. Custo
 
 Wiebel, Peter. _Observation of the Observation: Uncertainty_. 1973. Installation, Video. [http://www.medienkunstnetz.de/works/beobachtung/](http://www.medienkunstnetz.de/works/beobachtung/).
 
-## Exhibition Catalogs and Companions
+**Exhibition Catalogs and Companions**
 
 Beil, Ralf, and Antje Ehmann, eds. _Serious Games: War-Media-Art_. Bilingual edition. Ostfildern: Hatje Cantz, 2011.
 
@@ -270,7 +278,7 @@ Wallis, Brian, Andrew Hultkrans, Avital Ronell, Bill Horrigan, Andrew Ross, Giov
 
 Weibel, Peter, and Timothy Druckrey, eds. _Net\_condition: Art and Global Media_. Graz, Austria : Karlsruhe, Germany : Cambridge, Mass: The MIT Press, 2001.
 
-## Texts
+**Texts**
 
 Brian Holmes. &quot;Visiting the Planetarium.&quot; _Continental Drift_ (blog), September 8, 2011. [https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/](https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/).
 
@@ -296,5 +304,5 @@ Vasilev, Danja, Gordon Savičić, and Julian Oliver. &quot;The Critical Engineer
 
 Weizman, Eyal. _Eyal Weizman: Forensic Architecture, Notes from Fields and Forums: 100 Notes, 100 Thoughts: Documenta Series 062_. Bilingual edition. Ostfildern: Hatje Cantz, 2012.
 
-Zuboff, Shoshana. _The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power_. 1 edition. Place of publication not identified: PublicAffairs, 2018.
+Zuboff, Shoshana. &quot;Big Other: Surveillance Capitalism and the Prospects of an Information Civilization.&quot; SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, April 4, 2015. [https://papers.ssrn.com/abstract=2594754](https://papers.ssrn.com/abstract=2594754).
 
