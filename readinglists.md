@@ -100,8 +100,6 @@ Crawford, Kate. &quot;Can an Algorithm Be Agonistic? Ten Scenes from Life in Cal
 
 Frabetti, Federica. _Software Theory: A Cultural and Philosophical Study_. Media Philosophy. London ; New York: Rowman &amp; Littlefield International, 2015.
 
-&quot;Full Text PDF.&quot; Accessed April 8, 2018. [https://papers.ssrn.com/sol3/Delivery.cfm/SSRN\_ID3067711\_code829721.pdf?abstractid=3067711&amp;mirid=1](https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3067711_code829721.pdf?abstractid=3067711&amp;mirid=1).
-
 Fuller, Matthew. _Behind the Blip: Essays on the Culture of Software_. Brooklyn, NY: Autonomedia, 2003.
 
 ———, ed. _Software Studies: A Lexicon_. Leonardo Books. Cambridge, Mass: MIT Press, 2008.
