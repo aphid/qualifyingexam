@@ -44,6 +44,8 @@ Mattern, Shannon. _Code and Clay, Data and Dirt: Five Thousand Years of Urban Me
 
 McLuhan, Marshall. _The Gutenberg Galaxy: The Making of Typographic Man_. 1st ed. Toronto ; Buffalo: University of Toronto Press, 1962.
 
+Morse, Margaret. &quot;The News As Performance: The Image as Event&quot; In _Virtualities: Television, Media Art, and Cyberculture_, 36–71. Indiana University Press, 1998.
+
 Mumford, Lewis. &quot;Authoritarian and Democratic Technics.&quot; _Technology and Culture_ 5, no. 1 (1964): 1–8. [https://doi.org/10.2307/3101118](https://doi.org/10.2307/3101118).
 
 Parikka, Jussi. &quot;Dust and Exhaustion: The Labor of Media Materialism.&quot; _CTheory_ 0, no. 0 (October 2, 2013): 10-2/2013.
@@ -288,7 +290,7 @@ Critical Art Ensemble. _Digital Resistance: Explorations in Tactical Media_. 200
 
 Deleuze, Gilles. &quot;Postscript on the Societies of Control.&quot; _October_ 59 (1992): 3–7.
 
-Grinberg, Daniel, and Lisa Han. “Introduction: Surveying the Field.” Media Fields, no. 12 (March 25, 2016).
+Grinberg, Daniel, and Lisa Han. &quot;Surveying the Field.&quot; _Media Fields_, no. 12 (March 25, 2016).
 
 Modes, Wes. &quot;Revisiting the Technical Achievements of Listening Post Ten Years On.&quot; _NMEDIAC_ 9, no. 1 (Winter 2013): 17.
 
@@ -299,6 +301,8 @@ Raley, Rita. _Tactical Media_. Electronic Mediations 28. Minneapolis: University
 Stork, Benedict. &quot;Aesthetics, Politics, and the Police Hermeneutic: Online Videos of Police Violence Beyond the Evidentiary Function.&quot; _Film Criticism_ 40, no. 2 (July 25, 2016). [https://doi.org/10.3998/fc.13761232.0040.210](https://doi.org/10.3998/fc.13761232.0040.210).
 
 Surveillance Camera Players (SCP), and Bill Brown. &quot;Surveillance Camera Players: 10 Year Report,&quot; December 10, 2006. [http://www.notbored.org/10-year-report.html](http://www.notbored.org/10-year-report.html).
+
+Turner, Fred. &quot;The Arts at Facebook: An Aesthetic Infrastructure for Surveillance Capitalism.&quot; _Poetics_, March 2018. [https://doi.org/10.1016/j.poetic.2018.03.003](https://doi.org/10.1016/j.poetic.2018.03.003).
 
 Vasilev, Danja, Gordon Savičić, and Julian Oliver. &quot;The Critical Engineering Manifesto,&quot; 2016 2011. [https://criticalengineering.org/](https://criticalengineering.org/).
 
