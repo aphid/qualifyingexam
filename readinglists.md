@@ -134,7 +134,7 @@ Parikka, Jussi. _Digital Contagions: A Media Archaeology of Computer Viruses_. P
 
 Parisi, Luciana. &quot;Reprogramming Decisionism.&quot; _E-Flux_, no. 85 (October 2017). [http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/](http://www.e-flux.com/journal/85/155472/reprogramming-decisionism/).
 
-Pasquale, Frank A. &quot;Professional Judgment in an Era of Artificial Intelligence and Machine Learning.&quot; SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, November 8, 2017. [https://papers.ssrn.com/abstract=3067711](https://papers.ssrn.com/abstract=3067711).
+Pasquale, Frank A. &quot;Professional Judgment in an Era of Artificial Intelligence and Machine Learning.&quot; Boundary 2. (forthcoming). 
 
 Raley, Rita. &quot;Code.Surface || Code.Depth.&quot; Dichtung-Digital 36, 2006. [http://www.dichtung-digital.org/2006/01/Raley/index.htm](http://www.dichtung-digital.org/2006/01/Raley/index.htm).
 
@@ -308,5 +308,6 @@ Vasilev, Danja, Gordon Savičić, and Julian Oliver. &quot;The Critical Engineer
 
 Weizman, Eyal. _Eyal Weizman: Forensic Architecture, Notes from Fields and Forums: 100 Notes, 100 Thoughts: Documenta Series 062_. Bilingual edition. Ostfildern: Hatje Cantz, 2012.
 
-Zuboff, Shoshana. &quot;Big Other: Surveillance Capitalism and the Prospects of an Information Civilization.&quot; SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, April 4, 2015. [https://papers.ssrn.com/abstract=2594754](https://papers.ssrn.com/abstract=2594754).
+Zuboff, Shoshana. “Big Other: Surveillance Capitalism and the Prospects of an Information Civilization.” Journal of Information Technology, no. 30 (2015): 75–89.
+
 
