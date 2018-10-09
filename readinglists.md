@@ -280,34 +280,38 @@ Weibel, Peter, and Timothy Druckrey, eds. _Net\_condition: Art and Global Media_
 
 **Texts**
 
-Brian Holmes. &quot;Visiting the Planetarium.&quot; _Continental Drift_ (blog), September 8, 2011. [https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/](https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/).
+Browne, Simone. Dark Matters: On the Surveillance of Blackness. Durham: Duke University Press, 2015.
 
-Browne, Simone. _Dark Matters: On the Surveillance of Blackness_. Durham: Duke University Press, 2015.
+Cirio, Paolo. “Aesthetics of Information Ethics,” 2017. https://paolocirio.net/press/texts/aesthetics-information-ethics.php.
 
-Cirio, Paolo. &quot;Aesthetics of Information Ethics,&quot; 2017. [https://paolocirio.net/press/texts/aesthetics-information-ethics.php](https://paolocirio.net/press/texts/aesthetics-information-ethics.php).
+Critical Art Ensemble. Digital Resistance: Explorations in Tactical Media. 2001. Revised 2nd Printing ed. edition. New York, N.Y: Autonomedia, 2000.
 
-Critical Art Ensemble. _Digital Resistance: Explorations in Tactical Media_. 2001. Revised 2nd Printing ed. edition. New York, N.Y: Autonomedia, 2000.
+Deleuze, Gilles. “Postscript on the Societies of Control.” October 59 (1992): 3–7.
 
-Deleuze, Gilles. &quot;Postscript on the Societies of Control.&quot; _October_ 59 (1992): 3–7.
+Farocki, Harun. “Phantom Images.” Public, New Localities, no. 29 (2004).
 
-Grinberg, Daniel, and Lisa Han. &quot;Surveying the Field.&quot; _Media Fields_, no. 12 (March 25, 2016).
+Grinberg, Daniel, and Lisa Han. “Surveying the Field.” Media Fields, no. 12 (March 25, 2016).
 
-Modes, Wes. &quot;Revisiting the Technical Achievements of Listening Post Ten Years On.&quot; _NMEDIAC_ 9, no. 1 (Winter 2013): 17.
+Holmes, Brian. “Visiting the Planetarium.” Continental Drift (blog), September 8, 2011. https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/.
 
-Parks, Lisa, and Kaplan Caren, eds. _Life in the Age of Drone Warfare_, 2017.
+Modes, Wes. “Revisiting the Technical Achievements of Listening Post Ten Years On.” NMEDIAC 9, no. 1 (Winter 2013): 17.
+Oliver, Julian, Danja Vasilev, and Gordan Savičić. “The Critical Engineering Manifesto,” 2016 2011. https://criticalengineering.org/.
 
-Raley, Rita. _Tactical Media_. Electronic Mediations 28. Minneapolis: University of Minnesota Press, 2009.
+Parks, Lisa, and Caren Kaplan, eds. Life in the Age of Drone Warfare, 2017.
 
-Stork, Benedict. &quot;Aesthetics, Politics, and the Police Hermeneutic: Online Videos of Police Violence Beyond the Evidentiary Function.&quot; _Film Criticism_ 40, no. 2 (July 25, 2016). [https://doi.org/10.3998/fc.13761232.0040.210](https://doi.org/10.3998/fc.13761232.0040.210).
+Raley, Rita. “List(En)Ing Post.” In Literary Art in Digital Performance : Case Studies in New Media Art and Criticism, edited by Francisco J. Ricardo. Continuum, 2009. http://raley.english.ucsb.edu/wp-content/LPost.pdf.
+———. Tactical Media. Electronic Mediations 28. Minneapolis: University of Minnesota Press, 2009.
 
-Surveillance Camera Players (SCP), and Bill Brown. &quot;Surveillance Camera Players: 10 Year Report,&quot; December 10, 2006. [http://www.notbored.org/10-year-report.html](http://www.notbored.org/10-year-report.html).
+Steyerl, Hito. “A Sea of Data: Apophenia and Pattern (Mis- )Recognition.” E-Flux 72 (April 2016): 14.
 
-Turner, Fred. &quot;The Arts at Facebook: An Aesthetic Infrastructure for Surveillance Capitalism.&quot; _Poetics_, March 2018. [https://doi.org/10.1016/j.poetic.2018.03.003](https://doi.org/10.1016/j.poetic.2018.03.003).
+Stork, Benedict. “Aesthetics, Politics, and the Police Hermeneutic: Online Videos of Police Violence Beyond the Evidentiary Function.” Film Criticism 40, no. 2 (July 25, 2016). https://doi.org/10.3998/fc.13761232.0040.210.
 
-Vasilev, Danja, Gordon Savičić, and Julian Oliver. &quot;The Critical Engineering Manifesto,&quot; 2016 2011. [https://criticalengineering.org/](https://criticalengineering.org/).
+Surveillance Camera Players (SCP), and Bill Brown. “Surveillance Camera Players: 10 Year Report,” December 10, 2006. http://www.notbored.org/10-year-report.html.
 
-Weizman, Eyal. _Eyal Weizman: Forensic Architecture, Notes from Fields and Forums: 100 Notes, 100 Thoughts: Documenta Series 062_. Bilingual edition. Ostfildern: Hatje Cantz, 2012.
+Turner, Fred. “The Arts at Facebook: An Aesthetic Infrastructure for Surveillance Capitalism.” Poetics, March 2018. https://doi.org/10.1016/j.poetic.2018.03.003.
+
+Wang, Jackie. Carceral Capitalism. Semiotext(e) Intervention Series 21. South Pasadena, CA: Semiotext(e), 2018.
+
+Weizman, Eyal. Eyal Weizman: Forensic Architecture, Notes from Fields and Forums: 100 Notes, 100 Thoughts: Documenta Series 062. Bilingual edition. Ostfildern: Hatje Cantz, 2012.
 
 Zuboff, Shoshana. “Big Other: Surveillance Capitalism and the Prospects of an Information Civilization.” Journal of Information Technology, no. 30 (2015): 75–89.
-
-
