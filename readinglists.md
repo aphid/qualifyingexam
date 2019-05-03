@@ -302,6 +302,7 @@ Oliver, Julian, Danja Vasilev, and Gordan Savičić. “The Critical Engineering
 Parks, Lisa, and Caren Kaplan, eds. Life in the Age of Drone Warfare, 2017.
 
 Raley, Rita. “List(En)Ing Post.” In Literary Art in Digital Performance : Case Studies in New Media Art and Criticism, edited by Francisco J. Ricardo. Continuum, 2009. http://raley.english.ucsb.edu/wp-content/LPost.pdf.
+
 ———. Tactical Media. Electronic Mediations 28. Minneapolis: University of Minnesota Press, 2009.
 
 Steyerl, Hito. “A Sea of Data: Apophenia and Pattern (Mis- )Recognition.” E-Flux 72 (April 2016): 14.
