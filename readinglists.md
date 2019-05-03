@@ -290,6 +290,8 @@ Deleuze, Gilles. “Postscript on the Societies of Control.” October 59 (1992)
 
 Farocki, Harun. “Phantom Images.” Public, New Localities, no. 29 (2004).
 
+Foucault, Michel. Discipline and Punish: The Birth of the Prison. 2nd Vintage Books ed. New York: Vintage Books, 1995.
+
 Grinberg, Daniel, and Lisa Han. “Surveying the Field.” Media Fields, no. 12 (March 25, 2016).
 
 Holmes, Brian. “Visiting the Planetarium.” Continental Drift (blog), September 8, 2011. https://brianholmes.wordpress.com/2011/09/08/visiting-the-planetarium/.
